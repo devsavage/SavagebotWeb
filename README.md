@@ -1,4 +1,4 @@
-# Website for Savagebot
+<strong>Website for Savagebot</strong>
 ---------------------------------------------------------------
 
 The MIT License (MIT)
